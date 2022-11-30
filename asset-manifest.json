@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GanttChart/static/css/main.4f3816d6.css",
+    "main.js": "/GanttChart/static/js/main.c096e29e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/GanttChart/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/GanttChart/index.html",
+    "main.4f3816d6.css.map": "/GanttChart/static/css/main.4f3816d6.css.map",
+    "main.c096e29e.js.map": "/GanttChart/static/js/main.c096e29e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/GanttChart/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f3816d6.css",
+    "static/js/main.c096e29e.js"
+  ]
+}
